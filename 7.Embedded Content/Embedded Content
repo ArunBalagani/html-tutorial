@@ -1,0 +1,19 @@
+<!-- 7. Embedded Content -->
+
+1. <img> – Image
+
+2. <audio> – Audio content
+
+3. <video> – Video content
+
+4. <source> – Multiple media sources
+
+5. <track> – Text tracks for media (subtitles)
+
+6. <iframe> – Inline frame (embed other documents)
+
+7. <embed> – Embedded content
+
+8. <object> – Object container
+
+9. <param> – Parameters for <object>

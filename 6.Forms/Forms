@@ -1,0 +1,25 @@
+<!-- 6. Forms -->
+
+1. <form> – Form container
+
+2. <input> – Input field
+
+3. <textarea> – Text area
+
+4. <button> – Button
+
+5. <select> – Dropdown list
+
+6. <option> – Option in a dropdown
+
+7. <optgroup> – Group of options in a dropdown
+
+8. <label> – Label for form elements
+
+9. <fieldset> – Group related elements
+
+10. <legend> – Caption for a fieldset
+
+11. <datalist> – Predefined options for an input
+
+12. <output> – Output for calculations

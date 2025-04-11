@@ -1,0 +1,35 @@
+<!-- 2. Event Attributes -->
+
+1. onclick – Script to run on a mouse click
+
+2. ondblclick – Script to run on a double-click
+
+3. onmousedown – Script to run when the mouse button is pressed
+
+4. onmouseup – Script to run when the mouse button is released
+
+5. onmouseover – Script to run when the mouse is over an element
+
+6. onmouseout – Script to run when the mouse moves out of an element
+
+7. onkeydown – Script to run when a key is pressed down
+
+8. onkeypress – Script to run when a key is pressed
+
+9. onkeyup – Script to run when a key is released
+
+10. onchange – Script to run when the value of an element changes
+
+11. oninput – Script to run when an element gets user input
+
+12. onfocus – Script to run when an element gets focus
+
+13. onblur – Script to run when an element loses focus
+
+14. onsubmit – Script to run when a form is submitted
+
+15. onreset – Script to run when a form is reset
+
+16. onload – Script to run when an element has finished loading
+
+17. onerror – Script to run when an error occurs

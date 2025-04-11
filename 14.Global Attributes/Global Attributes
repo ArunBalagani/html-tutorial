@@ -1,0 +1,29 @@
+; 1. Global Attributes (can be used on any HTML element)
+
+1. accesskey – Defines a shortcut key to activate/focus an element
+
+2. class – Specifies one or more class names for an element (used for styling)
+
+3. contenteditable – Indicates whether the element's content is editable
+
+4. data-* – Custom data attributes
+
+5. dir – Specifies the text direction (ltr, rtl, auto)
+
+6. draggable – Specifies whether the element is draggable
+
+7. hidden – Hides the element
+
+8. id – Specifies a unique id for an element
+
+9. lang – Specifies the language of the element's content
+
+10. spellcheck – Specifies whether the element is subject to spell checking
+
+11. style – Inline CSS styles
+
+12. tabindex – Specifies the tab order of an element
+
+13. title – Specifies extra information (tooltip)
+
+14. translate – Specifies whether the content of an element should be translated

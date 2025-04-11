@@ -1,0 +1,43 @@
+; 2. Text Content
+
+1. <h1>, <h2>, <h3>, <h4>, <h5>, <h6> – Headings
+
+2. <p> – Paragraph
+
+3. <br> – Line break
+
+4. <hr> – Horizontal rule
+
+5. <b> – Bold text
+
+6. <i> – Italic text
+
+7. <strong> – Important text (semantically strong)
+
+8. <em> – Emphasized text
+
+9. <mark> – Highlighted text
+
+10. <small> – Smaller text
+
+11. <del> – Deleted text (strikethrough)
+
+12. <ins> – Inserted text (underline)
+
+13. <sub> – Subscript text
+
+14. <sup> – Superscript text
+
+15. <blockquote> – Block quote
+
+16. <q> – Inline quotation
+
+17. <pre> – Preformatted text
+
+18. <code> – Code snippet
+
+19. <kbd> – Keyboard input
+
+20. <samp> – Sample output
+
+21. <var> – Variable in a code snippet

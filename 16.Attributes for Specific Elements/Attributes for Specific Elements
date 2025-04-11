@@ -1,0 +1,131 @@
+<!-- 3. Attributes for Specific Elements -->
+
+<!-- 1. Anchor (<a>) -->
+
+href – URL the link goes to
+
+target – Specifies where to open the linked document
+
+rel – Specifies the relationship between the current document and the linked one
+
+download – Specifies that the target will be downloaded when clicked
+
+type – Specifies the MIME type of the target URL
+
+<!-- 2. Image (<img>) -->
+src – Image URL
+
+alt – Alternative text for the image
+
+width – Image width
+
+height – Image height
+
+loading – Specifies the loading behavior (lazy, eager)
+
+<!-- 3. Form and Input Elements -->
+
+action – Where to send form data when submitted
+
+method – HTTP method to use when sending form data (GET, POST)
+
+enctype – How form data should be encoded when submitted
+
+name – Name of the form element (for identification in form data)
+
+value – Specifies the initial value
+
+placeholder – Text that appears in the input field when it's empty
+
+maxlength – Maximum number of characters allowed
+
+min / max – Minimum and maximum values for an input
+
+required – Specifies that the input field must be filled out
+
+readonly – Makes the input field read-only
+
+disabled – Disables the form element
+
+checked – Specifies that an input should be pre-selected (for checkboxes/radio buttons)
+
+autocomplete – Specifies if the form should have autocomplete enabled
+
+novalidate – Prevents validation of the form before submission
+
+multiple – Allows multiple files to be selected or multiple options to be selected
+
+pattern – Regular expression to validate the input
+
+type – Specifies the type of the input (text, password, email, number, etc.)
+
+<!-- 4. Table Elements -->
+colspan – Specifies the number of columns a table cell should span
+
+rowspan – Specifies the number of rows a table cell should span
+
+headers – Specifies which headers relate to a table cell
+
+scope – Specifies whether a table header is for a row, column, or group
+
+<!-- 5. Media Elements (<audio>, <video>) -->
+controls – Displays media controls (play, pause, etc.)
+
+autoplay – Automatically starts playing the media
+
+loop – Plays the media in a loop
+
+muted – Specifies that the audio output should be muted
+
+preload – Specifies if and how the author thinks the media file should be loaded when the page loads
+
+poster – Image to show before the video plays
+
+<!-- 6. Iframe (<iframe>) -->
+src – URL of the document to embed
+
+srcdoc – HTML content to show within the iframe
+
+sandbox – Applies extra restrictions to the content in the iframe
+
+allow – Allows specific features (e.g., fullscreen, microphone, etc.)
+
+width – Width of the iframe
+
+height – Height of the iframe
+
+<!-- 7. Script (<script>) -->
+
+src – URL of an external script
+
+async – Script will execute asynchronously
+
+defer – Script will execute after the page has finished parsing
+
+type – Type of script (e.g., text/javascript)
+
+nomodule – Prevents older browsers from executing modern JavaScript
+
+<!-- 8. Meta (<meta>) -->
+
+charset – Character encoding (e.g., UTF-8)
+
+name – Name of the metadata (e.g., description, keywords, author, etc.)
+
+content – The value associated with the name attribute
+
+http-equiv – Used for HTTP headers (e.g., refresh, content-type, etc.)
+
+<!-- 9. Link (<link>) -->
+rel – Relationship between the current document and the linked document/resource
+
+href – URL of the linked document/resource
+
+type – Type of the linked document (e.g., text/css for stylesheets)
+
+<!-- 10. Button -->
+type – Type of button (button, submit, reset)
+
+form – Associates the button with a form element
+
+disabled – Disables the button

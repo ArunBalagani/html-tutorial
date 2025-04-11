@@ -1,0 +1,19 @@
+<!-- 1. Document Structure -->
+
+1. <!DOCTYPE> – Defines the document type
+
+2. <html> – Root of the document
+
+3. <head> – Container for metadata
+
+4. <title> – Defines the title
+
+5. <meta> – Metadata (character set, viewport, etc.)
+
+6. <link> – External resources like stylesheets
+
+7. <style> – Internal CSS styles
+
+8. <script> – JavaScript
+
+9. <body> – Content of the document

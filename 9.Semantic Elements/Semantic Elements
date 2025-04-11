@@ -1,0 +1,27 @@
+<!-- 9. Semantic Elements -->
+
+1. <header> – Header section
+
+2. <nav> – Navigation links
+
+3. <section> – Section of the document
+
+4. <article> – Independent article
+
+5. <aside> – Sidebar content
+
+6. <footer> – Footer section
+
+7. <main> – Main content
+
+8. <figure> – Self-contained content (e.g., images)
+
+9. <figcaption> – Caption for <figure>
+
+10. <time> – Date and time
+
+11. <address> – Contact information
+
+12. <details> – Disclosure widget for additional details
+
+13. <summary> – Summary for <details>

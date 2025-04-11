@@ -1,0 +1,11 @@
+<!-- 4. ARIA (Accessibility) Attributes -->
+
+aria-hidden – Hides elements from assistive technologies
+
+aria-label – Defines a string label for accessibility
+
+aria-labelledby – References another element for a label
+
+aria-expanded – Indicates whether an element is expanded or collapsed
+
+aria-controls – Identifies the element controlled by the current element

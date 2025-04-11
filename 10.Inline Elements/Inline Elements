@@ -1,0 +1,21 @@
+<!-- 10. Inline Elements -->
+
+1. <span> – Generic inline container
+
+2. <bdi> – Bidirectional isolation
+
+3. <bdo> – Bidirectional override
+
+4. <cite> – Citation
+
+5. <abbr> – Abbreviation
+
+6. <data> – Machine-readable data
+
+7. <dfn> – Defining instance of a term
+
+8. <ruby> – Ruby annotation (for East Asian typography)
+
+9. <rt> – Ruby text
+
+10. <rp> – Parentheses for browsers not supporting <ruby>

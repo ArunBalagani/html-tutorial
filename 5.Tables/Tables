@@ -1,0 +1,21 @@
+<!-- 5. Tables -->
+
+1. <table> – Table
+
+2. <caption> – Table caption
+
+3. <tr> – Table row
+
+4. <th> – Table header
+
+5. <td> – Table data
+
+6. <thead> – Table header group
+
+7. <tbody> – Table body group
+
+8. <tfoot> – Table footer group
+
+9. <col> – Column properties
+
+10. <colgroup> – Group of columns
